@@ -23,7 +23,7 @@ return ( <main className="min-h-screen bg-[#0b0b0b] text-white">
 
 {/* HERO SECTION */} <section className="grid lg:grid-cols-2 gap-10 items-center px-8 lg:px-20 py-20">
 
-```
+
     <div className="inline-flex items-center gap-3 bg-white/90 border border-black/10 px-6 py-3 rounded-full text-base font-semibold shadow-lg mb-8">
   <span className="h-3 w-3 rounded-full bg-green-500"></span>
   Trending Food Discoveries • Daily Inspiration
@@ -123,7 +123,7 @@ className="md:hidden text-3xl text-white"
   {
 menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px-8 py-6 flex flex-col gap-6 text-lg">
 
-```
+
   <Link href="/category/viral-recipes">
     Discover
   </Link>
@@ -169,7 +169,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
 
   <div className="p-8">
 
-```
+
 <p className="uppercase tracking-[0.2em] text-xs text-white/40
  mb-4">
   Viral Discovery
@@ -256,7 +256,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
 ">
   High-protein breakfast trends everyone is saving.
 </p>
-```
+
 
   </div>
 
@@ -301,7 +301,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
 <section className="bg-black text-white px-8 lg:px-20 py-28 mt-24">
   <div className="max-w-6xl mx-auto grid lg:grid-cols-2 gap-16 items-center">
 
-```
+
 <div>
   <p className="uppercase tracking-[0.4em] text-sm text-white/40 mb-6">
     Premium Food Intelligence
@@ -349,7 +349,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
     </h3>
   </div>
 </div>
-```
+
 
   </div>
 </section>
@@ -359,14 +359,14 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
   <div className="bg-[#111111]
  rounded-[40px] shadow-2xl p-10 lg:p-16 grid md:grid-cols-3 gap-10 text-center">
 
-```
+
 <div className="hover:scale-105 transition duration-500">
   <h3 className={`${playfair.className} text-6xl font-black`}>
     5M+
   </h3>
 
-  <p className="mt-4 text-white
-/60 font-medium">
+  <p className="mt-4 text-white/60
+ font-medium">
     Monthly Food Discoveries
   </p>
 </div>
@@ -376,8 +376,8 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
     120K+
   </h3>
 
-  <p className="mt-4 text-white
-/60 font-medium">
+  <p className="mt-4 text-white/60
+ font-medium">
     Newsletter Readers
   </p>
 </div>
@@ -387,12 +387,12 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
     850+
   </h3>
 
-  <p className="mt-4 text-white
-/60 font-medium">
+  <p className="mt-4 text-white/60
+ font-medium">
     Curated Discoveries
   </p>
 </div>
-```
+
 
   </div>
 </section>
@@ -401,7 +401,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
 <footer className="bg-black text-white px-8 lg:px-20 py-20 mt-24">
   <div className="grid md:grid-cols-4 gap-14">
 
-```
+
 <div>
   <h2 className={`${playfair.className} text-4xl font-black`}>
     Benefactor
@@ -458,20 +458,20 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
     </button>
   </div>
 </div>
-```
+
 
   </div>
 
   <div className="border-t border-white/10 mt-16 pt-8 text-white/40 text-sm flex flex-col md:flex-row justify-between gap-4">
     <p>© 2026 Benefactor. All rights reserved.</p>
 
-```
+
 <div className="flex gap-6">
   <p>Privacy</p>
   <p>Terms</p>
   <p>Contact</p>
 </div>
-```
+
 
   </div>
 </footer>
@@ -479,7 +479,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
 
   <div className="max-w-7xl mx-auto px-8 lg:px-20 py-16">
 
-```
+
 <div className="grid md:grid-cols-4 gap-12">
 
   <div>
@@ -529,7 +529,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
 
   <div className="flex flex-col gap-4 text-white/70">
 
-```
+
 <Link href="/about">
   About
 </Link>
@@ -545,7 +545,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
 <Link href="/terms">
   Terms
 </Link>
-```
+
 
   </div>
 </div>
@@ -592,7 +592,7 @@ menuOpen && ( <div className="md:hidden bg-[#111111] border-t border-white/10 px
   </p>
 
 </div>
-```
+
 
   </div>
 
