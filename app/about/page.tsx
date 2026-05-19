@@ -1,11 +1,11 @@
-export default function AboutPage() {
+export default function aboutPage() {
 return ( <main className="min-h-screen bg-[#0b0b0b] text-white px-8 lg:px-20 py-24">
 
-```
+
   <div className="max-w-4xl mx-auto">
 
     <p className="uppercase tracking-[0.3em] text-xs text-white/40 mb-6">
-      About Recipe Secrets
+      about Recipe Secrets
     </p>
 
     <h1 className="text-5xl lg:text-7xl font-black leading-tight">

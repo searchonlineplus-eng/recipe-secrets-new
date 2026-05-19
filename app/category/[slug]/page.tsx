@@ -1,4 +1,4 @@
-export default function CategoryPage({
+export default function categoryPage({
 params,
 }: {
 params: { slug: string };
@@ -12,7 +12,7 @@ return (
 
   <main className="min-h-screen bg-[#f5efe6] text-black">
 
-```
+
 {/* HERO */}
 <section className="px-8 lg:px-20 py-20">
 
@@ -96,7 +96,7 @@ return (
 
   <div className="grid md:grid-cols-3 gap-8">
 
-```
+
 <div className="rounded-[30px] overflow-hidden border border-black/10 hover:-translate-y-3 hover:shadow-2xl transition duration-500 bg-[#faf7f2]">
 
   <img
@@ -122,21 +122,21 @@ return (
   </div>
 
 </div>
-```
+
 
   </div>
 
 </div>
 
 </section>
-```
+
 {/* DISCOVER MORE */}
 
 <section className="px-8 lg:px-20 pb-24">
 
   <div className="max-w-7xl mx-auto">
 
-```
+
 <div className="flex items-center justify-between mb-12">
   <h2 className="text-5xl font-black">
     Discover More
@@ -198,7 +198,7 @@ return (
   </div>
 
 </div>
-```
+
 
   </div>
 

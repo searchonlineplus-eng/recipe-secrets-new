@@ -1,7 +1,7 @@
 export default function Logo() {
 return ( <div className="flex items-center gap-3">
 
-```
+
   <div className="h-10 w-10 rounded-2xl bg-black text-white flex items-center justify-center text-xl font-black">
     R
   </div>

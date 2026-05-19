@@ -1,7 +1,7 @@
 export default function Loading() {
 return ( <main className="min-h-screen bg-[#0b0b0b] flex items-center justify-center">
 
-```
+
   <div className="flex flex-col items-center">
 
     <div className="h-16 w-16 rounded-full border-4 border-white/10 border-t-white animate-spin" />
